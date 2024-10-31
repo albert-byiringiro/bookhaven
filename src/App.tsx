@@ -1,9 +1,9 @@
-import HomePage from "./pages/Home";
+import AppRoutes from "./routes/AppRoutes";
 
 export default function App() {
   return (
     <main className="mx-8">
-      <HomePage/>
+      <AppRoutes/>
     </main>
   )
 }
