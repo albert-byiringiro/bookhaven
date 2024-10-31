@@ -1,9 +1,9 @@
-import Navigation from "./components/navigation";
+import HomePage from "./pages/Home";
 
 export default function App() {
   return (
     <main className="mx-8">
-      <Navigation/>
+      <HomePage/>
     </main>
   )
 }
