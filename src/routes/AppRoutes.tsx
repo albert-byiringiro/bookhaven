@@ -15,7 +15,7 @@ export default function AppRoutes() {
           children: [
             {
               index: true, 
-              element: <HomePage/>
+              element: <HomePage/>,
             },
             {
               path: 'shop',
